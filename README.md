@@ -42,7 +42,7 @@ Name: P BALA SATYA SANDEEP
 ![image](https://user-images.githubusercontent.com/111385394/227799675-ef19e1ff-85bf-4361-967d-52b515413ddd.png)
 
 
-### ___finding all servers in Swagger UI___
+### ___fetching all servers in Swagger UI___
 
 ![image](https://user-images.githubusercontent.com/111385394/227800375-c12381ca-c875-43ab-b897-f852f8580616.png)
 ![image](https://user-images.githubusercontent.com/111385394/227800503-069a4a2c-ec50-4d6f-8cbb-a9954aa1bc83.png)
