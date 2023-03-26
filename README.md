@@ -3,6 +3,12 @@
 
 Name: P BALA SATYA SANDEEP
 
+### *Technologies Used*
+* Java
+* Maven
+* SpringBoot Framework
+* Mongodb
+* Springfox Swagger UI
 
 ### *Implementation of Swagger*
 * Implementation of Swagger with SpringBoot and MongoDB
