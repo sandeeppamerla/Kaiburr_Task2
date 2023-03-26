@@ -62,6 +62,10 @@ Name: P BALA SATYA SANDEEP
 ![image](https://user-images.githubusercontent.com/111385394/227800835-bbe34ea3-c699-4171-9f86-047a8be96b47.png)
 
 
+#### hit the from postman to get the code generated automatically & Used the code form Swagger UI and Tried it on Online Editor
+![image](https://user-images.githubusercontent.com/111385394/227802794-a2eb0154-6d68-441d-bc79-dc788b8ad58e.png)
+![image](https://user-images.githubusercontent.com/111385394/227802721-7fb1f41e-6507-4b2d-adc9-710f3bcc1537.png)
+
 
 
 
