@@ -1,7 +1,5 @@
-## Kaiburr_Task2
 # Swagger codegen
 
-Name: P BALA SATYA SANDEEP
 
 ### *Technologies Used*
 * Java
